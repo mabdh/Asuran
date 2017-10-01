@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/0698b11edc13f42627374d31a4758c0505140378/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_129d35b7f7e709fb638820586759ec2d7222cb22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/282039ed5df721a40f318fc43f915f3519ba84af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_ff8a9eb18e3bc363359f3c8a4a191b689711a905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/83a830464c8b0dcd7950216b24b5b927568b342b/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_1ec41d3d14b39641b1f93c521841f02967f5f4b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/491259f86abf659e6cf869ec9126f0c25411e799/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_314da9b66a71c5e17209f9e62d872fed46ab3d23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/951d1d105c60c25c41a628a8cff383a1bc808968/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_bf0404e4e9f8f3de46e8504191ffb073b35eb241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/1affe0fcd6a2506b1ddfd69f454778fc6b3f0b4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_d889a32c6d8df29de591e93c185fa32914efa0ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/e48d4168fdde68e382dea167003b57c62136f3ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_ea7200233da41e25992558e27e544d90c54ff487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/34dcfa3ab40ba24b9489d12bc5852413444f501f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_34f98af2b846a0d789d11824585938f4b6d9c56f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/444e89a54078f85573105f2216a58a568f94e424/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_3a3cef9ee7a8a1c1bb3fce4c1dcee6e1563373a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/97e8ba565b08bb46b0488c8d0a492daeb4b1f055/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_c6c26d871ef2bf6ac0400a5d0dbeefc123dd3d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/5e8bc7b91a9f6d94b9d39a160419eb694fc9b4be/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_33cdf54d3b2986827a3d420a1e1e1c7f873b92c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/36bfc5a10ff7afa533ef912ea38c91be9b1d5d4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_7bfec4212647dc35f32b214301f9ff73ca75ebbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/5e8bc7b91a9f6d94b9d39a160419eb694fc9b4be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_6a738d13c0fa417e2b0cc8ab63eb70441978e5bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/3a1fcf4eef59158d25b5818dc943ed7b7853a100/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_1023a158da589a55ccca94b17e2d287f0ba2ffd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/a8d1c9587827be526372ed474d2bc2334e7fccb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_0b8490a3a9c22f495834f7e13a083494e33c8737.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/70632524a638077910c824efa589e8d156c34a19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_94ddfddaa9b47b5d376c701cf61974be876536ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/c6fa6becdf4298781d746cd678ad5747734e0895/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_08f7bb6abe5a06beb3fadba5c1ba6451f0cd8d64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/6a65afb7a04839dd4f6e32d38c400b4da6592cee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_28718ab3c5fee5ef96fd693e46ce9ef9bd20e4af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/c66c33d24277ce5180592176a5bc74a8667ac8e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_828d3c14e1c2c22ae3aa96903f26a97f656f52c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/ba999cbc54b0dab06e2b4bcc3f4e6a0338abc668/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_77c25feb2b83d49490f87008cc99ed3a68c94b57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/00a645e42611dd487395e7078b008e11a557974a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_767022fd59f47743db2f6794880817f42b2e3dcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/915c36052b557dff43f733313da8e826ad69e4a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_a8936e1b89d24da296e57c90369542d6d2073a26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/f6899a67b13fd02bf52904b26b025bdfcf170b65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_339c80d5305e45c1c342bbf9c5b555599aac615e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/d682d42edc669ab936bcdb5ef2645b35fdccbcf1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_64e95d7259982d731c4e15ff7c6b5e7e98cf448f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/ba999cbc54b0dab06e2b4bcc3f4e6a0338abc668/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a214330e6a5b46515af1848fc979a11779152455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_0258ada05460762a4cd86f36c31bed98fe8dbea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/bd9e8cbca7e9fe6c346bd426902101804d3ef47f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_feef6df5893a6eb46e65c0fd00b12121975f138c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/f438128bf0f09d88581ffad863f67e42905842ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_15b369b03a842cab8dee3e9910e4c39805794fe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/5b3f5981af57ab8828bb1cd1891e1de6d13b29b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_104a1f95e6198b9bcb99d79432eee69ad73faa3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/90e9571a19a49a0e4a5be5e2b28770009e20f7dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_01109d996155d3f7018f64451ab1b57154652482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/0ac225fde3547ec1e13979f6a08b95479ca286e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_aaa99b43611c98215c1aa75947bd7400738fb6a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/848cf86a6ed6ed0461174f0d48a520a3a2548f7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_297020d0566ef960349751507ccb7a0f25e5e1c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.android.service/1.0.3-SNAPSHOT/306f4b0f9020bd1f5e77e84dc1ee44ca5864194a/org.eclipse.paho.android.service-1.0.3-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="306f4b0f9020bd1f5e77e84dc1ee44ca5864194a">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.0.3-SNAPSHOT_5e7edbdb4a081411b08d2d9cc11c27ddc6d38fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/9bfea0662d7e9bfe65340a27d6a6378ba9da501b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_081367b744831d8323c6f36e2530d5c8a5e5238a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/c4227958f0684b7009a3a0a1b6915b501cc1d0a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_3d167296697e1151f35d6960436a64cb651ca2c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/c4d04a9baf8ef595caf64c012846e62d0861ded6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_975b8bccbe8d6bf9e6a146262e89f53d3d3ab3e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/a8fdaf950360cf9be0648903a85a74b75535d4eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_f566b1a4d5aea908461638e61d767b0cf040527d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/b810410f43653ef49e0432f61f86770b9e3d4995/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_6c1d889a764df565822281b4a0f250f157497a4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/7e365ea19e976d72ef5590792b6888dbc497f258/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_c3a4c43c26f1167a7cef7362e6888df1ddfc4a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/c0f7c147292cc86431cf2418a3bbe86395f317ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_871e6fb14588fb2c7edf49f5aad5c4b19cf9dc3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/a97c691a21a555e88b92abde35bae4c87220281a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_36f48d9d6ace17e4c64ada8d2ea721b01cc131ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/0f9496e32954ae33897ce58de693c9bbe3cd33b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_536f52072670963b58c2f4163afc4595e4579a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/83a830464c8b0dcd7950216b24b5b927568b342b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_86cd180be98a9a7ea0d087122c546431f915445e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/277d6758d5ebe9702836095980bb094e471ee2e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_9f3c687eb7ed1936d65844b362f373dd45a215f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/24e0daef72659386f876daa8a72dffc719a77ea6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_bc83442e643ede0da8f401e67f15a2a351110ab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/da2fa8824a1c1221289e64b17b407175313c0cf8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_c8dcb64c19596cfd6fd93c05bf3f67c5b4e957c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/8840623fd4ecba85e60c598b1fc962bbbf1c1ca9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_0dccf5d59dd55443af3716d4fbfb353ab4e6cb2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/a4d8eb85066b32453b35a2e94ecc883d28a1e308/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_da781a4a5a23efe58c671044d89aa72d5e9c2ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/6a65afb7a04839dd4f6e32d38c400b4da6592cee/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_64591c46e31002ff5e57cfb90ea4aa3bab554c5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/5253f2eaf0d7836168d5e79f260f9bcf2a6bb741/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_9421d278b21c31265631cdc893dc6ba270118c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/508bc0a7fc193606e918bd27e70b2116a3e85af2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_68541f8468638755b928d77e3056b31f97f437d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/958c218474cac03f53ef7ecf3ebfa62d1cd632e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_0b197a0feaaf3b9876e335c62f76c2085acfb307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.3-SNAPSHOT/364bbb31f264b2de958c5a0437de478af18ae7/org.eclipse.paho.client.mqttv3-1.0.3-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00364bbb31f264b2de958c5a0437de478af18ae7">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.3-SNAPSHOT_8a4f058d0746daa8e1e4d831a16a9dbba3311707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/6a204c05625a6a19805feec058dbb0f2ad6d6dd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_65f45b6f67f4e1a488953d284fd374fc43485ffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/71985abdab3c564274ca63dd9814b4795d5de5af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_897122eb5df15bcebfea79da1700e4dce930688c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/62bc3f151a37582a1e441726ef1ce23274ad39d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_0a64c2e77db845cd101e9432b65af07c52461833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/64b7e2513533088d2da617bca9a2cf95bc88e701/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_39dbbb87e9f70d1d39df034a1e9a4222899155cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/508bc0a7fc193606e918bd27e70b2116a3e85af2/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4e48e4ed64ea384c09b634038ca579e9cf7cd34a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/5e5290516220ea498c10e4957c19b780924a7ccf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_cce309d3391ac732e598e987d02e29889ac02645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/49e44f85270e23d832dd60b7b10cfd4d5a7da94c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_d3617e8367293de2e2271c5513042ad5c0cb5793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/3ab76578e171d4646e3a358174479d54c0e14796/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_30f1f0c5f71f46f67428ac92e247edad1c571cc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/4132b9b033d63b37689cb4d41e765ef1da831f40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_80b49acda27315c7f133b2b254cbaf5ae528f5c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/89aa35d5af88741482578ac3a5d90c695711cfe5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_c560602b14edbb2eabfd61687378f4ffaaa0fc96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/49f642b463f3ffb60921b1311e7fd3e6cf487d01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_67d298abdd4ccf1aea5ee7d9e99a48820a29af2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/e204f471869f15aca69f0bd953666cc58d52de2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_73eee8fc01ab907734bf34df32a26a66c8723c7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/84ec44197013b2290b0bb9ca6cd85e384c3d0933/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_0daaffe9ff7b0f70789ed3c4d84c581addaffcd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/9325a9d8aefad36d820e36a6645a950b95159fe4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_0f99135127344411bcfd364cd3d4b5356f1d96dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/0ef2746149e648bc0b546b37108c03e0b41d87b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_12b0609b65592595e6364092db5e918c6aa238d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/37da4167cc49d98b4dee2e2b0c94757acd1abbd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_0348f418c0c82ba1c5fb39d0aa4feef1a8ca0954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/1e8f0c3ee66430a16722bd780d035186274d824b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_7b9127286bf2c7abad63dd37ffa7658b955eaec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/dc68978df25afa31afa1d6569281cd5d742918c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/classes_c2df6c6bb146be9cc15c7c95df1cfa59d06425c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/muhammadabduh/.android/build-cache/da2fa8824a1c1221289e64b17b407175313c0cf8/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/muhammadabduh/Research/GithubRepo/Insurhack/Asuran/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_654b4e79c3d78febb0ed6cc942c54101fa3a4257.jar" />
+    </item>
+
+</items>
