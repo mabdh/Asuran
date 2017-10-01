@@ -58,7 +58,7 @@ public class GeofenceTransitionService extends IntentService {
     // Create a detail message with Geofences received
     private String getGeofenceTrasitionDetails(int geoFenceTransition, List<Geofence> triggeringGeofences) {
         // get the ID of each geofence triggered
-        ArrayList<String> triggeringGeofencesList = new ArrayList<>();
+        ArrayList<String> triggeringGeofencesList = new ArrayList<String>();
         for ( Geofence geofence : triggeringGeofences ) {
             triggeringGeofencesList.add( geofence.getRequestId() );
         }

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_detail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="3"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="id.mainski.asuran.DetailActivity"
+    tools:showIn="@layout/activity_detail">
+
+
+    <include
+        android:id="@+id/mapDetailPlaceholder"
+        layout="@layout/fragment_map"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_weight="1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_below="@id/mapDetailPlaceholder"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:text="Place"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="10pt"
+                android:layout_marginTop="10pt"
+                android:layout_centerHorizontal="true"
+                android:layout_height="wrap_content"
+                android:id="@+id/place"
+                android:textSize="15pt"
+                android:layout_margin="5dp"
+                android:textColor="@color/colorSecondary" />
+
+            <TextView
+                android:text="TextView"
+                android:layout_below="@+id/place"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="10pt"
+                android:layout_marginTop="10pt"
+                android:layout_centerHorizontal="true"
+                android:layout_height="wrap_content"
+                android:id="@+id/priceest"
+                android:layout_margin="5dp"
+                android:textSize="15pt" />
+
+            <TextView
+                android:text="Radius"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:id="@+id/textView2"
+                android:layout_below="@+id/priceest"
+                android:layout_centerHorizontal="true"
+                android:textStyle="normal|bold"
+                android:textSize="8pt"
+                android:textColor="@color/colorPrimaryDark" />
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView3"
+                android:layout_centerHorizontal="true"
+                android:textSize="10pt"
+                android:layout_margin="5dp"
+                android:layout_below="@+id/textView2" />
+
+
+
+            <TextView
+                android:text="Address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:id="@+id/addressLabel"
+                android:textStyle="normal|bold"
+                tools:text="Address"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_below="@+id/textView3"
+                android:layout_centerHorizontal="true"
+                android:textSize="8pt" />
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/addressLabel"
+                android:id="@+id/address"
+                android:layout_margin="5dp"
+                android:layout_centerHorizontal="true"
+                android:textSize="10pt" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>
